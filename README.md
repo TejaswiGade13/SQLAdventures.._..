@@ -22,8 +22,8 @@ Each zone includes: <br>
 ✅ Links to interactive SQL playgrounds — practice anytime, anywhere! <br>
 
 <h3> How to Begin Your Journey 🗺️ </h3>
-<br> 
-Pick your adventure level (beginner, intermediate, or advanced) by navigating the folders.
+
+Pick your adventure level (beginner, intermediate, or advanced) by navigating the folders.<br> 
 
 > Read the problems and notes inside each folder’s README.md.
   
@@ -32,12 +32,12 @@ Pick your adventure level (beginner, intermediate, or advanced) by navigating th
 >  Start crafting your SQL queries and solve the puzzles!
 
 <h3> Why Join SQL Adventures? 🎉 </h3>
-<br>
->  Learn at your own pace — no pressure!
+
 
 > Peer-driven knowledge sharing and community tips.
 
-> No complicated setup — just open the playground and play!
+> No complicated setup — just open the playground and play! <br>
+> Learn at your own pace — no pressure!
 
 
 <h3> About Me 👋  </h3>
