@@ -7,6 +7,8 @@ Have you ever felt overwhelmed by the sea of things to learn? Wonder how others 
 Fear not! SQL Adventures is here to guide you through beginner, intermediate, and advanced lands — with treasure maps (resources), puzzles (problems), and magic tools (SQL sandboxes) to make learning exciting and easy.
 
 <h2> What’s Inside the Adventure? 🎒 </h2>
+<br>
+
 > 🐣 Beginner Zone: Learn your first SQL spells — SELECT, WHERE, ORDER BY, and more!
 
 > ⚔️ Intermediate Realm: Battle JOINs, aggregations, and nested queries.
@@ -14,21 +16,24 @@ Fear not! SQL Adventures is here to guide you through beginner, intermediate, an
 > 🧙‍♂️ Advanced Quest: Master subqueries, views, and complex real-world challenges.
 
 Each zone includes: <br>
+<br>
 ✅ Carefully crafted problems <br>
 ✅ Sample databases ready to explore <br>
 ✅ Links to interactive SQL playgrounds — practice anytime, anywhere! <br>
 
 <h3> How to Begin Your Journey 🗺️ </h3>
+<br> 
 Pick your adventure level (beginner, intermediate, or advanced) by navigating the folders.
 
->  Read the problems and notes inside each folder’s README.md.
+> Read the problems and notes inside each folder’s README.md.
   
 >  Head over to the linked SQL playground and paste the sample schema (don’t worry, instructions are there!).
   
 >  Start crafting your SQL queries and solve the puzzles!
 
 <h3> Why Join SQL Adventures? 🎉 </h3>
-> Learn at your own pace — no pressure!
+<br>
+>  Learn at your own pace — no pressure!
 
 > Peer-driven knowledge sharing and community tips.
 
