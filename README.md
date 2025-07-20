@@ -68,4 +68,4 @@ Hi! I'm **Tejaswi**, a Computer Science student at Amrita Vishwa Vidyapeetham (A
 I love building engaging web projects, sipping good coffee ☕, and exploring cool tech with fellow learners.  
 Though I’m still learning, I built this project to help others like me feel less overwhelmed with SQL. Let’s learn together!
 
-📫 Feel free to connect: [LinkedIn](www.linkedin.com/in/tejaswi-gade13)
+📫 Feel free to connect: [LinkedIn](https://www.linkedin.com/in/tejaswi-gade13/)
