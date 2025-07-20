@@ -1,5 +1,7 @@
 # SQLAdventures.._..
 🎉 SQL Adventures: Your Fun Path to SQL Mastery! 🚀
+
+
 Welcome, Adventurer! 🧭
 Have you ever felt overwhelmed by the sea of things to learn? Wonder how others sail through the SQL storms?
 Fear not! SQL Adventures is here to guide you through beginner, intermediate, and advanced lands — with treasure maps (resources), puzzles (problems), and magic tools (SQL sandboxes) to make learning exciting and easy.
@@ -34,7 +36,7 @@ No complicated setup — just open the playground and play!
 
 Build real skills for real projects and interviews.
 
-About Me 👋
+About Me 👋 <br>
 Hi! I’m Tejaswi, a Computer Science student at Amrita Vishwa Vidyapeetham with a passion for web development, coffee, music, and all things dogs 🐶.
 I built SQL Adventures to make learning SQL a fun and friendly experience for all!
 
@@ -46,4 +48,3 @@ Found a cool tip or question? Want to add your own SQL puzzles? Contributions ar
 License 📄
 This project is licensed under the MIT License.
 
-Would you like me to help you generate the folder READMEs or starter schemas next?
